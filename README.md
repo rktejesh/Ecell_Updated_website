@@ -2,7 +2,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 <img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2020?style=flat-square">
-![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)
+![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)
 
 # E-CELL IIIT Lucknow
 This website developed to promote the entrepreneurship cell of IIIT Lucknow.<br>
